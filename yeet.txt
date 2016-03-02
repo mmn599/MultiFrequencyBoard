@@ -1,0 +1,14 @@
+-part numbers
+	-resistors and capacitors?
+-check footprints
+
+ground plane
+
+check sizes/footprints of jumpers 
+	2.54 mm pitch
+	http://www.mouser.com/Search/ProductDetail.aspx?qs=uJX40y%252bSWqgv0R7w4t8vNA%3d%3d
+
+label filter information
+
+
+resistor in front of INA (1MegaOHM)
