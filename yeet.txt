@@ -10,5 +10,5 @@ check sizes/footprints of jumpers
 
 label filter information
 
+-resistor in front of INA (1MegaOHM)
 
-resistor in front of INA (1MegaOHM)
